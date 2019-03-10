@@ -1,0 +1,16 @@
+
+Please choose from the following
+1) Print the array
+2) Add a book to the array and then sort it
+3) Quit
+Choice --> 1
+
+[Tom Capaul - Pearson, Daniel Conte de Leon - Cengage, Paul Schimpf - Wiley, Stu Steiner - Self]
+
+Please choose from the following
+1) Print the array
+2) Add a book to the array and then sort it
+3) Quit
+Choice --> 3
+
+

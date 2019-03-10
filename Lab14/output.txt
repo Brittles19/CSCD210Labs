@@ -1,0 +1,51 @@
+Please enter the name of the file input.txt
+
+Please choose from the following
+1) Print the array
+2) Add a book to the array and then sort it
+3) Quit
+Choice --> 1
+
+[Tom Capaul - Pearson, Daniel Conte de Leon - Cengage, Paul Schimpf - Wiley, Stu Steiner - Self]
+
+Please choose from the following
+1) Print the array
+2) Add a book to the array and then sort it
+3) Quit
+Choice --> 2
+
+Please enter the first name Stu
+Please enter the last name Steiner
+Please enter the publisher Pearson
+
+Please choose from the following
+1) Print the array
+2) Add a book to the array and then sort it
+3) Quit
+Choice --> 1
+
+[Tom Capaul - Pearson, Daniel Conte de Leon - Cengage, Paul Schimpf - Wiley, Stu Steiner - Pearson, Stu Steiner - Self]
+
+Please choose from the following
+1) Print the array
+2) Add a book to the array and then sort it
+3) Quit
+Choice --> 2
+
+Please enter the first name Daniel
+Please enter the last name Steiner
+Please enter the publisher Pearson
+
+Please choose from the following
+1) Print the array
+2) Add a book to the array and then sort it
+3) Quit
+Choice --> 1
+
+[Tom Capaul - Pearson, Daniel Conte de Leon - Cengage, Paul Schimpf - Wiley, Daniel Steiner - Pearson, Stu Steiner - Pearson, Stu Steiner - Self]
+
+Please choose from the following
+1) Print the array
+2) Add a book to the array and then sort it
+3) Quit
+Choice --> 3
